@@ -25,14 +25,10 @@ This Python program uses the PyQt5 library for the graphical user interface and 
 - OpenCV (cv2)
 - NumPy
 
-## Usage
-
-```bash
-python unblur.py
-
 -----------------------------------------------------
 
-TR|||
+
+## TR|||
 
 # PyQt5 ve OpenCV ile Geliştirilmiş Resim Geliştirici
 
@@ -58,7 +54,7 @@ Bu Python programı, grafik kullanıcı arayüzü için PyQt5 kütüphanesini ve
 - OpenCV (cv2)
 - NumPy
 
-## Kullanım
+## Kullanım / Usage
 
 ```bash
 python unblur.py
