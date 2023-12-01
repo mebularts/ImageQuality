@@ -28,4 +28,38 @@ This Python program uses the PyQt5 library for the graphical user interface and 
 ## Usage
 
 ```bash
-python image_enhancer.py
+python unblur.py
+
+-----------------------------------------------------
+
+TR|||
+
+# PyQt5 ve OpenCV ile Geliştirilmiş Resim Geliştirici
+
+Bu Python programı, grafik kullanıcı arayüzü için PyQt5 kütüphanesini ve görüntü işleme için OpenCV'yi kullanarak basit bir resim geliştirici sunmaktadır. Bu uygulama, kullanıcılara bir resmi yüklemelerine, boyutlandırmalarına ve ayrıntıları artırmak için keskinleştirmelerine olanak tanır.
+
+## Özellikler
+
+- **Resim Boyutlandırma:** Resmi yeniden boyutlandırmak için ölçek faktörünü ayarlayın.
+- **Keskinleştirme:** Görüntü ayrıntılarını artırmak için keskinleştirme gücünü kontrol edin.
+- **Önizleme ve Kaydetme:** Geliştirilmiş resmi önizleyin ve kaydedin.
+
+## Nasıl Kullanılır
+
+1. Programı çalıştırın.
+2. "Resim Yükle" düğmesini veya pencereye sürükleyip bırakarak bir resmi yükleyin.
+3. Ölçek ve keskinleştirme kaydırıcılarını ayarlayın.
+4. Geliştirilmiş resmi görmek için "Önizle" düğmesine tıklayın.
+5. "Resmi Kaydet" düğmesini kullanarak geliştirilmiş resmi kaydedin.
+
+## Bağımlılıklar
+
+- PyQt5
+- OpenCV (cv2)
+- NumPy
+
+## Kullanım
+
+```bash
+python unblur.py
+
